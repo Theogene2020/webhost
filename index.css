@@ -1,0 +1,78 @@
+h1 {
+color:white;
+background-color:rgba(41,180,156,1.00);
+text-transform:uppercase;
+text-shadow:-1px -2px #666666;
+/*border:3px dotted #0088dd;*/
+	text-align:center;
+margin:0;
+	width =100%;
+	display: block;
+	padding: 0; 
+	list-style: none;
+	text-decoration: none;
+}
+body{background-color:#dedede;
+	
+	
+}
+.selection{
+	
+	margin-left: 70px;
+	margin-right: 70px;
+background-color:antiquewhite;
+	
+	height: 2000;
+
+}
+.title{background-color:rgba(13,8,8,1.00);
+color: white;
+	text-align: center
+
+}
+
+#footer{padding:6px;
+	clear: both;
+	position:absolute;
+	top: 1900px;
+	
+}
+/*
+body{
+	
+	background-color:#dedede;
+	
+}
+*/
+h4 {
+	
+	background-color:#c7ab9a;
+	border:3px dotted #0088dd;
+	
+}
+
+p.two{
+	
+	background-color:blue;
+	background-image:url("D:/icons/jw1.png");
+
+}
+#myimage{background-color: aqua;
+	display: block;
+	
+
+
+
+
+}
+{
+	
+	
+	margin-right:15px;
+	margin-left:15px;
+	
+}
+id.pu {
+	color:red;
+	
+}
